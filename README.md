@@ -6,7 +6,7 @@
 <hr width="50%" color="green" size="10px" align="center" />
 <br>
 <a href="https://melodious-syrniki-2d8043.netlify.app">效果站点</a>
-<img src="https://count.getloli.com/get/@fengsaner-biaoqian?theme=1">
+#<img src="https://count.getloli.com/get/@fengsaner-biaoqian?theme=1">
 <!--
 **fengsaner/fengsaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
