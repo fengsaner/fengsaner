@@ -1,5 +1,6 @@
 ### 扣你吉瓦 👋
 自己的东西看看就行<br>
+<b>陌生人你好呀</b>
 <hr width="50%" color="green" size="10px" align="center" />
 <br>
 <a href="https://melodious-syrniki-2d8043.netlify.app">效果站点</a>
