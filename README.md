@@ -1,7 +1,7 @@
 ### 扣你吉瓦 👋
 <b>陌生人你好呀</b><br>
 自己的东西看看就行<br>
-<b>还没研究完看看就行了</b>
+<b>还没研究完看看就行了</b><br>
 
 <hr width="50%" color="green" size="10px" align="center" />
 <br>
