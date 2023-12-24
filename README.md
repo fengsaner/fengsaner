@@ -1,5 +1,6 @@
 ### 扣你吉瓦 👋
 自己的东西看看就行<br>
+<hr width="50%" color="green" size="10px" align="center" />
 <img src="https://count.getloli.com/get/@fengsaner-biaoqian?theme=1">
 <!--
 **fengsaner/fengsaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
